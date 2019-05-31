@@ -1,6 +1,6 @@
 {
   "name": "@dmbarreiro/rxjscustomops",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dmbarreiro custom RxJs operators",
   "main": "dist/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "David Martinez Barreiro <davidmartinezbarreiro@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "rxjs": "^6.3.3"
+    "rxjs": "6.x"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.6",
