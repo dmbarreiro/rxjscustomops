@@ -1,6 +1,6 @@
 {
   "name": "@dmbarreiro/rxjscustomops",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "dmbarreiro custom RxJs operators",
   "main": "dist/index.js",
   "scripts": {
